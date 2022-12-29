@@ -5,3 +5,5 @@ Einzige Änderung:
 
 Der optionale Taster wird NICHT zum Speichern des maxcount, sondern als eine Art WLAN-Reset genutzt.
 Bei gedrücktem Taster bzw. gestecktem Jumper bootet der ESP mit den Standard-Werten (User & Passwort: GW60-ESP) im AP-Modus
+
+Bauanleitung folgt.
